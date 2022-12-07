@@ -17,7 +17,6 @@ const routes = {
   profile: '/profile',
   portfolio: '/profile?view=portfolio',
   history: '/profile?view=history',
-  classic: '/classic',
 };
 
 export default routes;
